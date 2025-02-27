@@ -1,0 +1,55 @@
+!<thin>
+//                                              636       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+ff-memless.o/
+matrix-keymap.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/samsung-keypad.o/
+keyboard/s2mpu12-key.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/himax/himax_831xx/himax_ic_incell_core.o/
+touchscreen/himax/himax_831xx/himax_ic_HX83112.o/
+touchscreen/himax/himax_831xx/himax_common.o/
+touchscreen/himax/himax_831xx/himax_platform_SPI.o/
+touchscreen/himax/himax_831xx/himax_debug.o/
+touchscreen/himax/himax_831xx/himax_inspection.o/
+misc/uinput.o/
+
+/0              0           0     0     644     359656    `
+/9              0           0     0     644     113680    `
+/25             0           0     0     644     157912    `
+/37             0           0     0     644     154024    `
+/48             0           0     0     644     166120    `
+/62            /0           0     0     644     149392    `
+/79             0           0     0     644     148488    `
+/93             0           0     0     644     382408    `
+/102            0           0     0     644     241432    `
+/120            0           0     0     644     265112    `
+/142            0           0     0     644     194824    `
+/169            0           0     0     644     254344    `
+/193            0           0     0     644     267624    `
+/210            0           0     0     644     176648    `
+/227            0           0     0     644     263040    `
+/244            0           0     0     644     190872    `
+/259            0           0     0     644     187448    `
+/277            0           0     0     644     173536    `
+/293            0           0     0     644     150512    `
+/323            0           0     0     644     745216    `
+/377            0           0     0     644     324224    `
+/427            0           0     0     644     687824    `
+/473            0           0     0     644     433400    `
+/525            0           0     0     644     519000    `
+/570            0           0     0     644     813088    `
+/620            0           0     0     644     252640    `

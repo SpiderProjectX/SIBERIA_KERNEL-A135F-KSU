@@ -1,0 +1,1 @@
+cmd_drivers/spu_verify/built-in.a :=  rm -f drivers/spu_verify/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/spu_verify/built-in.a drivers/spu_verify/spu-sign-verify.o

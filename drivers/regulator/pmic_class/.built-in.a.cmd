@@ -1,0 +1,1 @@
+cmd_drivers/regulator/pmic_class/built-in.a :=  rm -f drivers/regulator/pmic_class/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/regulator/pmic_class/built-in.a drivers/regulator/pmic_class/pmic_class.o

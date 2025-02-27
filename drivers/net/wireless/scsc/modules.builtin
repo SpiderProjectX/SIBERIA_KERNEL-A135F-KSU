@@ -1,0 +1,2 @@
+kernel/drivers/net/wireless/scsc/scsc_wlan.ko
+kernel/drivers/net/wireless/scsc/scsc_wifilogger.ko

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a :=  rm -f drivers/crypto/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/crypto/built-in.a drivers/crypto/hisilicon/built-in.a drivers/crypto/exynos-fmp.o drivers/crypto/fmp/built-in.a

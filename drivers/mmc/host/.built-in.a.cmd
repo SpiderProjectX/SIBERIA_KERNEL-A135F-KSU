@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.a :=  rm -f drivers/mmc/host/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/mmc/host/built-in.a drivers/mmc/host/dw_mmc.o drivers/mmc/host/dw_mmc-pltfm.o drivers/mmc/host/dw_mmc-exynos.o drivers/mmc/host/dw_mmc-exynos-fmp.o drivers/mmc/host/cqhci.o drivers/mmc/host/dw_mmc-srpmb.o

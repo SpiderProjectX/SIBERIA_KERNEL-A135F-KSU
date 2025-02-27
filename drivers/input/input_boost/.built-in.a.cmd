@@ -1,0 +1,1 @@
+cmd_drivers/input/input_boost/built-in.a :=  rm -f drivers/input/input_boost/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/input/input_boost/built-in.a drivers/input/input_boost/evdev_booster.o drivers/input/input_boost/input_booster.o drivers/input/input_boost/input_booster_lsi.o

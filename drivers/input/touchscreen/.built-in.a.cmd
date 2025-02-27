@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.a :=  rm -f drivers/input/touchscreen/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/input/touchscreen/built-in.a drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/himax/himax_831xx/built-in.a

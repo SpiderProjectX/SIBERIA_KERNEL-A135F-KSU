@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a :=  rm -f drivers/i2c/busses/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-exynos5.o drivers/i2c/busses/acpm-mfd-bus.o drivers/i2c/busses/i2c-s3c2410.o

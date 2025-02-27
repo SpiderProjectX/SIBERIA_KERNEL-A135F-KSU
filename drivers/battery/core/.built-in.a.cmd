@@ -1,0 +1,1 @@
+cmd_drivers/battery/core/built-in.a :=  rm -f drivers/battery/core/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/battery/core/built-in.a drivers/battery/core/sb_core.o drivers/battery/core/sb_pqueue.o drivers/battery/core/sb_notify.o drivers/battery/core/sb_sysfs.o drivers/battery/core/sb_vote.o

@@ -1,0 +1,55 @@
+!<thin>
+//                                              428       `
+lib/circ_buf.o/
+lib/circ_buf_packet.o/
+core/cdev.o/
+core/cred.o/
+core/event.o/
+core/iwio.o/
+core/iwservice.o/
+core/iwsock.o/
+core/log.o/
+core/mem.o/
+core/notifier.o/
+core/ree_time.o/
+core/sysdep.o/
+core/tzdev.o/
+core/umem.o/
+core/uiwsock.o/
+core/iwlog.o/
+core/kthread_pool_smpboot.o/
+core/platform.o/
+teec/context.o/
+teec/misc.o/
+teec/session.o/
+teec/shared_memory.o/
+debug/iw_boot_log.o/
+extensions/boost.o/
+extensions/irs.o/
+
+/0              0           0     0     644     76736     `
+/16             0           0     0     644     14456     `
+/39             0           0     0     644     116512    `
+/52             0           0     0     644     139056    `
+/65             0           0     0     644     12016     `
+/79             0           0     0     644     122000    `
+/92             0           0     0     644     6824      `
+/110            0           0     0     644     236088    `
+/125            0           0     0     644     30968     `
+/137            0           0     0     644     160256    `
+/149            0           0     0     644     102552    `
+/166            0           0     0     644     49096     `
+/183            0           0     0     644     147736    `
+/198            0           0     0     644     198120    `
+/212            0           0     0     644     151480    `
+/225            0           0     0     644     191856    `
+/241            0           0     0     644     118552    `
+/255            0           0     0     644     184008    `
+/284            0           0     0     644     131424    `
+/301            0           0     0     644     31600     `
+/317            0           0     0     644     135144    `
+/330            0           0     0     644     181232    `
+/346           /0           0     0     644     143832    `
+/368            0           0     0     644     123072    `
+/389            0           0     0     644     19264     `
+/409            0           0     0     644     140336    `

@@ -1,0 +1,1 @@
+cmd_drivers/muic/common/vt_muic/built-in.a :=  rm -f drivers/muic/common/vt_muic/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/muic/common/vt_muic/built-in.a drivers/muic/common/vt_muic/vt_muic.o

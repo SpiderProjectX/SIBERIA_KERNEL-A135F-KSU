@@ -1,0 +1,1 @@
+cmd_drivers/staging/nanohub/built-in.a :=  rm -f drivers/staging/nanohub/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/staging/nanohub/built-in.a drivers/staging/nanohub/chub.o drivers/staging/nanohub/chub_ipc.o drivers/staging/nanohub/chub_log.o drivers/staging/nanohub/chub_dbg.o

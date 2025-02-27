@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/vbus_notifier/built-in.a :=  rm -f drivers/usb/common/vbus_notifier/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/common/vbus_notifier/built-in.a drivers/usb/common/vbus_notifier/vbus_notifier.o

@@ -1,0 +1,29 @@
+!<thin>
+//                                              226       `
+sec_pd.o/
+sb_wireless.o/
+sec_charging_modprobe.o/
+sec_battery.o/
+sec_battery_vote.o/
+sec_battery_thermal.o/
+sec_battery_sysfs.o/
+sec_battery_dt.o/
+sec_battery_ttf.o/
+sec_adc.o/
+sec_cisd.o/
+sb_full_soc.o/
+sec_step_charging.o/
+
+/0              0           0     0     644     50368     `
+/10             0           0     0     644     60800     `
+/25             0           0     0     644     3848      `
+/50             0           0     0     644     819224    `
+/65             0           0     0     644     137152    `
+/85             0           0     0     644     285640    `
+/108            0           0     0     644     474672    `
+/129            0           0     0     644     448144    `
+/147            0           0     0     644     229680    `
+/166            0           0     0     644     218520    `
+/177            0           0     0     644     324480    `
+/189            0           0     0     644     240496    `
+/204            0           0     0     644     262936    `

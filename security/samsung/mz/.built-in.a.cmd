@@ -1,0 +1,1 @@
+cmd_security/samsung/mz/built-in.a :=  rm -f security/samsung/mz/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD security/samsung/mz/built-in.a 

@@ -1,0 +1,9 @@
+kernel/sound/soc/codecs/snd-soc-aud3004x.ko
+kernel/sound/soc/codecs/snd-soc-aud3004x-5p.ko
+kernel/sound/soc/codecs/aw882xx/aw882xx.ko
+kernel/sound/soc/codecs/aw882xx/aw_monitor.ko
+kernel/sound/soc/codecs/aw882xx/aw_init.ko
+kernel/sound/soc/codecs/aw882xx/aw_dsp.ko
+kernel/sound/soc/codecs/aw882xx/aw_device.ko
+kernel/sound/soc/codecs/aw882xx/aw_calib.ko
+kernel/sound/soc/codecs/aw882xx/aw_bin_parse.ko

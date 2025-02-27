@@ -1,0 +1,1 @@
+cmd_drivers/muic/afc_gpio/built-in.a :=  rm -f drivers/muic/afc_gpio/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/muic/afc_gpio/built-in.a drivers/muic/afc_gpio/afc_charger.o

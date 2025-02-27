@@ -1,0 +1,39 @@
+!<thin>
+//                                              246       `
+tty_io.o/
+n_tty.o/
+tty_ioctl.o/
+tty_ldisc.o/
+tty_buffer.o/
+tty_port.o/
+tty_mutex.o/
+tty_ldsem.o/
+tty_baudrate.o/
+tty_jobctrl.o/
+n_null.o/
+pty.o/
+tty_audit.o/
+sysrq.o/
+hvc/hvc_console.o/
+serial/serial_core.o/
+serial/earlycon.o/
+serial/samsung.o/
+
+/0              0           0     0     644     470736    `
+/10             0           0     0     644     337672    `
+/19             0           0     0     644     285104    `
+/32             0           0     0     644     199792    `
+/45             0           0     0     644     185944    `
+/59             0           0     0     644     223936    `
+/71             0           0     0     644     148432    `
+/84             0           0     0     644     149448    `
+/97             0           0     0     644     137104    `
+/113            0           0     0     644     192224    `
+/128            0           0     0     644     141952    `
+/138            0           0     0     644     252072    `
+/145            0           0     0     644     159696    `
+/158            0           0     0     644     321600    `
+/167            0           0     0     644     210120    `
+/186            0           0     0     644     474264    `
+/208            0           0     0     644     156032    `
+/227            0           0     0     644     469784    `

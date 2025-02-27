@@ -1,0 +1,11 @@
+!<thin>
+//                                              90        `
+exynos_perf_ncmemcpy.o/
+exynos_perf_cpuidle.o/
+exynos_perf_cpu.o/
+exynos_perf_cpufreq.o/
+
+/0              0           0     0     644     202616    `
+/24             0           0     0     644     126360    `
+/47             0           0     0     644     1056      `
+/66             0           0     0     644     131344    `

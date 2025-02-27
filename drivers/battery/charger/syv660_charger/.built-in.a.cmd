@@ -1,0 +1,1 @@
+cmd_drivers/battery/charger/syv660_charger/built-in.a :=  rm -f drivers/battery/charger/syv660_charger/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/battery/charger/syv660_charger/built-in.a drivers/battery/charger/syv660_charger/syv660_charger.o

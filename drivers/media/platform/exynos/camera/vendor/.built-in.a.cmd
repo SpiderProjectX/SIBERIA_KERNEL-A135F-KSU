@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/exynos/camera/vendor/built-in.a :=  rm -f drivers/media/platform/exynos/camera/vendor/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/media/platform/exynos/camera/vendor/built-in.a drivers/media/platform/exynos/camera/vendor/mcd_v2/built-in.a

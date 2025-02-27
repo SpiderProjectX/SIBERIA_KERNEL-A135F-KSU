@@ -1,0 +1,1 @@
+#define UTS_RELEASE "4.19.198SIBERIA-KsuNext-A13X"

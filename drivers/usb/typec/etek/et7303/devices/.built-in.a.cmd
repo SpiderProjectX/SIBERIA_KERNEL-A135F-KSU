@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/etek/et7303/devices/built-in.a :=  rm -f drivers/usb/typec/etek/et7303/devices/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/typec/etek/et7303/devices/built-in.a drivers/usb/typec/etek/et7303/devices/rt-regmap.o drivers/usb/typec/etek/et7303/devices/tcpc_et7303.o

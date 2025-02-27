@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.a :=  rm -f drivers/irqchip/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/exynos-combiner.o drivers/irqchip/irq-gic.o drivers/irqchip/irq-gic-common.o

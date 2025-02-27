@@ -1,0 +1,13 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/fbdev/core/fb.ko
+kernel/drivers/video/fbdev/core/cfbfillrect.ko
+kernel/drivers/video/fbdev/core/cfbcopyarea.ko
+kernel/drivers/video/fbdev/core/cfbimgblt.ko
+kernel/drivers/video/fbdev/exynos/panel/sysfs.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_notify.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_i2c.ko
+kernel/drivers/video/fbdev/exynos/panel/hx83112f_boe_a13/hx83112f_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36672c_csot/nt36672c_csot.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36672c_tianma/nt36672c_tianma.ko
+kernel/drivers/video/fbdev/exynos/panel/td4375_boe/td4375_boe.ko

@@ -1,0 +1,7 @@
+kernel/drivers/video/fbdev/exynos/panel/sysfs.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_notify.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_i2c.ko
+kernel/drivers/video/fbdev/exynos/panel/hx83112f_boe_a13/hx83112f_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36672c_csot/nt36672c_csot.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36672c_tianma/nt36672c_tianma.ko
+kernel/drivers/video/fbdev/exynos/panel/td4375_boe/td4375_boe.ko

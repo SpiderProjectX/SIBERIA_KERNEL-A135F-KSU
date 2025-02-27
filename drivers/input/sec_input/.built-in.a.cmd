@@ -1,0 +1,1 @@
+cmd_drivers/input/sec_input/built-in.a :=  rm -f drivers/input/sec_input/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/input/sec_input/built-in.a drivers/input/sec_input/sec_tsp_log.o drivers/input/sec_input/sec_tsp_dumpkey.o drivers/input/sec_input/sec_common_fn.o drivers/input/sec_input/sec_cmd.o

@@ -1,0 +1,1 @@
+cmd_drivers/nfc/built-in.a :=  rm -f drivers/nfc/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/nfc/built-in.a drivers/nfc/pn547.o drivers/nfc/cold_reset.o drivers/nfc/nfc_logger/nfc_logger.o

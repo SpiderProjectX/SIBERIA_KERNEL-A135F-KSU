@@ -1,0 +1,15 @@
+!<thin>
+//                                              118       `
+himax_ic_incell_core.o/
+himax_ic_HX83112.o/
+himax_common.o/
+himax_platform_SPI.o/
+himax_debug.o/
+himax_inspection.o/
+
+/0              0           0     0     644     745216    `
+/24             0           0     0     644     324224    `
+/44             0           0     0     644     687824    `
+/60             0           0     0     644     433400    `
+/82             0           0     0     644     519000    `
+/97             0           0     0     644     813088    `

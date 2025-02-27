@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/s610/built-in.a :=  rm -f drivers/media/radio/s610/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/media/radio/s610/built-in.a drivers/media/radio/s610/radio-s610.o drivers/media/radio/s610/fm_low.o drivers/media/radio/s610/fm_ctrl.o drivers/media/radio/s610/fm_rds.o

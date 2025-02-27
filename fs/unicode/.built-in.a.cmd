@@ -1,0 +1,1 @@
+cmd_fs/unicode/built-in.a :=  rm -f fs/unicode/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD fs/unicode/built-in.a fs/unicode/utf8-norm.o fs/unicode/utf8-core.o

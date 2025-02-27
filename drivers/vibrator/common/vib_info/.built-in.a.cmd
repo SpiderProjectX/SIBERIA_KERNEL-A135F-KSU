@@ -1,0 +1,1 @@
+cmd_drivers/vibrator/common/vib_info/built-in.a :=  rm -f drivers/vibrator/common/vib_info/built-in.a; ./toolchain/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vibrator/common/vib_info/built-in.a drivers/vibrator/common/vib_info/vibrator_vib_info.o

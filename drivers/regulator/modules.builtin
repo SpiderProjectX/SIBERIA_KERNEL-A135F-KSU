@@ -1,0 +1,2 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/s2mpu12-regulator.ko

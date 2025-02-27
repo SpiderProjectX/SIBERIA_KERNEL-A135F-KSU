@@ -1,0 +1,17 @@
+!<thin>
+//                                              244       `
+of_touchscreen.o/
+himax/himax_831xx/himax_ic_incell_core.o/
+himax/himax_831xx/himax_ic_HX83112.o/
+himax/himax_831xx/himax_common.o/
+himax/himax_831xx/himax_platform_SPI.o/
+himax/himax_831xx/himax_debug.o/
+himax/himax_831xx/himax_inspection.o/
+
+/0              0           0     0     644     150512    `
+/18             0           0     0     644     745216    `
+/60             0           0     0     644     324224    `
+/98             0           0     0     644     687824    `
+/132            0           0     0     644     433400    `
+/172            0           0     0     644     519000    `
+/205            0           0     0     644     813088    `

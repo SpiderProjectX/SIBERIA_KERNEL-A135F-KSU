@@ -1,0 +1,65 @@
+!<thin>
+//                                              562       `
+dmaengine.o/
+exynos3830_aud3004x.o/
+exynos3830_aud3004x_sysfs_cb.o/
+sec_audio_sysfs.o/
+sec_audio_debug.o/
+abox/abox_util.o/
+abox/abox_dbg.o/
+abox/abox_dump.o/
+abox/abox_log.o/
+abox/abox_gic.o/
+abox/abox.o/
+abox/abox_soc.o/
+abox/abox_core.o/
+abox/abox_rdma.o/
+abox/abox_wdma.o/
+abox/abox_if.o/
+abox/abox_effect.o/
+abox/abox_vss.o/
+abox/abox_failsafe.o/
+abox/abox_vdma.o/
+abox/abox_msg.o/
+abox/abox_ipc.o/
+abox/abox_qos.o/
+abox/abox_ion.o/
+abox/abox_oem.o/
+abox/abox_cmpnt.o/
+abox/abox_tplg.o/
+abox/abox_dma.o/
+abox/abox_pci.o/
+abox/abox_shm.o/
+abox/abox_proc.o/
+
+/0              0           0     0     644     214520    `
+/13             0           0     0     644     313248    `
+/36             0           0     0     644     211096    `
+/68             0           0     0     644     60288     `
+/87             0           0     0     644     322104    `
+/106            0           0     0     644     163872    `
+/124            0           0     0     644     311160    `
+/141            0           0     0     644     321176    `
+/159            0           0     0     644     166552    `
+/176            0           0     0     644     179216    `
+/193            0           0     0     644     607528    `
+/206            0           0     0     644     233560    `
+/223            0           0     0     644     305832    `
+/241            0           0     0     644     487720    `
+/259            0           0     0     644     365208    `
+/277            0           0     0     644     316904    `
+/293            0           0     0     644     231600    `
+/313            0           0     0     644     230424    `
+/330           /0           0     0     644     237912    `
+/352            0           0     0     644     319504    `
+/370            0           0     0     644     30000     `
+/387            0           0     0     644     233136    `
+/404            0           0     0     644     172576    `
+/421            0           0     0     644     245384    `
+/438            0           0     0     644     223400    `
+/455            0           0     0     644     723792    `
+/474            0           0     0     644     348760    `
+/492            0           0     0     644     418232    `
+/509            0           0     0     644     254040    `
+/526            0           0     0     644     9712      `
+/543            0           0     0     644     144080    `

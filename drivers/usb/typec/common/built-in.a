@@ -1,0 +1,14 @@
+!<thin>
+//                                              86        `
+pdic_notifier.o/
+pdic_sysfs.o/
+pdic_core.o/
+pdic_misc.o/
+pdic_param.o/
+pdic_policy.o/
+/0             /0           0     0     644     159248    `
+/17             0           0     0     644     49096     `
+/31             0           0     0     644     64112     `
+/44             0           0     0     644     190968    `
+/57             0           0     0     644     38512     `
+/71             0           0     0     644     277192    `
